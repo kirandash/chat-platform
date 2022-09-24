@@ -1,0 +1,30 @@
+{
+  "files.autoSave": "afterDelay",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "editor.tabSize": 2,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "files.eol": "\n",
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "diffEditor.wordWrap": "on",
+  "editor.wordWrap": "on",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "editor.smoothScrolling": true,
+  "terminal.integrated.smoothScrolling": true,
+  "editor.fontSize": 20,
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorWidth": 25,
+  "git.showPushSuccessNotification": true,
+  "editor.minimap.autohide": true,
+  "workbench.list.smoothScrolling": true
+}
