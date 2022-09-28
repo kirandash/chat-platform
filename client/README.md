@@ -17,7 +17,7 @@
 
 ## 2 Conversation Page
 
--
+- Can user https://github.com/faker-js/faker to create fake mocks (not used in this project)
 
 ## Others
 
