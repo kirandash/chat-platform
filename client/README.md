@@ -14,3 +14,13 @@
 - For fonts: use preconnect hint to load google fonts faster
 
 ### 1.2 Auth Pages
+
+## 2 Conversation Page
+
+-
+
+## Others
+
+- Stream
+  - streamlabs: for streaming
+  - obs: for screen recording

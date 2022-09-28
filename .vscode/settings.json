@@ -21,7 +21,7 @@
   },
   "editor.smoothScrolling": true,
   "terminal.integrated.smoothScrolling": true,
-  "editor.fontSize": 20,
+  "editor.fontSize": 16,
   "editor.cursorSmoothCaretAnimation": true,
   "editor.cursorWidth": 25,
   "git.showPushSuccessNotification": true,
